@@ -60,6 +60,7 @@ The options below can be true or false.
 | `noReloc` | put no relocations in to the exe header (for dos) |
 | `8bit` | uses 8 bit size compression (default: 32 bit) |
 | `8mibRam` | 8 megabyte memory limit (default 2MiB) |
+| `noCompressIcons` | Disable icon compression |
 
 ## Debug
 
